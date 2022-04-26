@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ffelipelimao/encoder/src/domain"
+	"github.com/ffelipelimao/encoder/internal/domain"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 )
